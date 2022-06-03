@@ -2,8 +2,7 @@ import random
 import time
 import os
 
-os.system("cls" if os.name != "nt" else "clear")
-
+print("\n"*3)
 
 def BeginGame():
     print("Welcome to Hangman!!\nThe Game will begin shortly...\n")
